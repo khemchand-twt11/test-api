@@ -13,27 +13,14 @@
       "brand": "loui vitton"
     }
   ],
-  "baby": [
+  "cloth_data": [
     {
       "id": 1,
       "title": "african",
       "brand": "loui vitton"
     }
   ],
-  "toddler": [
-    {
-      "id": 1,
-      "title": "african",
-      "brand": "loui vitton"
-    }
-  ],
-  "kids": [
-    {
-      "id": 1,
-      "title": "african",
-      "brand": "loui vitton"
-    }
-  ],
+
   "orders": [
     {
       "id": 1,
