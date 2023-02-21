@@ -26,7 +26,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 2
     },
     {
@@ -42,7 +43,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl"
+      "type": "baby",
+      "subType": "baby_girl"
     },
     {
       "title": "Baby 3-Piece Little Vest Set",
@@ -56,7 +58,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 3
     },
     {
@@ -71,7 +74,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 4
     },
     {
@@ -86,7 +90,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 5
     },
     {
@@ -101,7 +106,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 6
     },
     {
@@ -116,7 +122,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 7
     },
     {
@@ -131,7 +138,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 8
     },
     {
@@ -146,7 +154,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 9
     },
     {
@@ -161,7 +170,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 10
     },
     {
@@ -176,7 +186,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 11
     },
     {
@@ -191,7 +202,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 12
     },
     {
@@ -206,7 +218,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 13
     },
     {
@@ -221,7 +234,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 14
     },
     {
@@ -236,7 +250,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 15
     },
     {
@@ -251,7 +266,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 16
     },
     {
@@ -266,7 +282,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 17
     },
     {
@@ -281,7 +298,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 18
     },
     {
@@ -296,7 +314,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 19
     },
     {
@@ -311,7 +330,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 20
     },
     {
@@ -326,7 +346,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 21
     },
     {
@@ -341,7 +362,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 22
     },
     {
@@ -356,7 +378,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 23
     },
     {
@@ -371,7 +394,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 24
     },
     {
@@ -386,7 +410,8 @@
       "deals": "shopsale",
       "category": "shoe",
       "brand": "",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 25
     },
     {
@@ -401,7 +426,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 26
     },
     {
@@ -416,7 +442,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 27
     },
     {
@@ -431,7 +458,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 28
     },
     {
@@ -446,7 +474,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 29
     },
     {
@@ -461,7 +490,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 30
     },
     {
@@ -476,7 +506,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 31
     },
     {
@@ -491,7 +522,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 32
     },
     {
@@ -506,7 +538,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 33
     },
     {
@@ -521,7 +554,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 34
     },
     {
@@ -536,7 +570,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 35
     },
     {
@@ -551,7 +586,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 36
     },
     {
@@ -566,7 +602,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "baby",
+      "subType": "baby_girl",
       "id": 37
     },
     {
@@ -581,7 +618,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 38
     },
     {
@@ -596,7 +634,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 39
     },
     {
@@ -611,7 +650,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 40
     },
     {
@@ -626,7 +666,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 41
     },
     {
@@ -641,7 +682,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 42
     },
     {
@@ -656,7 +698,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 43
     },
     {
@@ -671,7 +714,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 44
     },
     {
@@ -686,7 +730,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 45
     },
     {
@@ -701,7 +746,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 46
     },
     {
@@ -716,7 +762,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 47
     },
     {
@@ -731,7 +778,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 48
     },
     {
@@ -746,7 +794,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 49
     },
     {
@@ -761,7 +810,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 50
     },
     {
@@ -776,7 +826,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 51
     },
     {
@@ -791,7 +842,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 52
     },
     {
@@ -806,7 +858,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 53
     },
     {
@@ -821,7 +874,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 54
     },
     {
@@ -836,7 +890,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 55
     },
     {
@@ -851,7 +906,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 56
     },
     {
@@ -866,7 +922,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 57
     },
     {
@@ -881,7 +938,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 58
     },
     {
@@ -896,7 +954,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 59
     },
     {
@@ -911,7 +970,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 60
     },
     {
@@ -926,7 +986,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 61
     },
     {
@@ -941,7 +1002,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 62
     },
     {
@@ -956,7 +1018,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 63
     },
     {
@@ -971,7 +1034,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 64
     },
     {
@@ -986,7 +1050,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 65
     },
     {
@@ -1001,7 +1066,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 66
     },
     {
@@ -1016,7 +1082,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 67
     },
     {
@@ -1031,7 +1098,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 68
     },
     {
@@ -1046,7 +1114,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 69
     },
     {
@@ -1061,7 +1130,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 70
     },
     {
@@ -1076,7 +1146,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 71
     },
     {
@@ -1091,7 +1162,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 72
     },
     {
@@ -1106,262 +1178,280 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_boy",
+      "type": "baby",
+      "subType": "baby_boy",
       "id": 73
     },
     {
-      "title": "Baby 5-Pack Short-Sleeve Bodysuits",
-      "image1": "https://cdn-fsly.yottaa.net/578855e32bb0ac10350004f8/www.carters.com/v~4b.2a5/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwefa32a03/productimages/1L785610.jpg?sw=354&sh=444&yocs=g_j_",
-      "image2": "https://cdn-fsly.yottaa.net/578855e32bb0ac10350004f8/www.carters.com/v~4b.2a5/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw05242fbf/productimages/1L785610_LV03.jpg?sw=354&sh=444&yocs=g_j_",
-      "actualPrice": "28.00",
-      "discountPrice": "16.80",
-      "discount": "40",
+      "title": "Toddler 2-Piece Tulle",
+      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw4bfa9131/productimages/2O855610.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dweab53248/productimages/2O855610_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "actualPrice": "34.00",
+      "discountPrice": "21.00",
+      "discount": "38",
       "size": "s",
       "ocassion": "",
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 74
     },
     {
-      "title": "Baby 3-Piece Quilted Little Cardigan Set",
-      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwefa32a03/productimages/1L785610.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw05242fbf/productimages/1L785610_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "actualPrice": "28.00",
-      "discountPrice": "16.80",
-      "discount": "40",
+      "title": "Toddler 2-Piece Flutter Tee & Floral Capri Legging Set",
+      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dweea7b589/productimages/2P181510.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw1111fdb2/productimages/2P181510_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "actualPrice": "34.00",
+      "discountPrice": "17.00",
+      "discount": "50",
       "size": "s",
       "ocassion": "",
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 75
     },
     {
-      "title": "Baby 3-Piece Quilted Little Cardigan Set",
-      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwefa32a03/productimages/1L785610.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw05242fbf/productimages/1L785610_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "actualPrice": "28.00",
-      "discountPrice": "16.80",
-      "discount": "40",
+      "title": "Toddler 2-Piece Plaid Flutter Top & Knit Denim Legging Set",
+      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwee1a02f3/productimages/2O855210.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw022c89fc/productimages/2O855210_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "actualPrice": "34.00",
+      "discountPrice": "21.00",
+      "discount": "38",
       "size": "s",
       "ocassion": "",
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 76
     },
     {
-      "title": "Baby 3-Piece Quilted Little Cardigan Set",
-      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwefa32a03/productimages/1L785610.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw05242fbf/productimages/1L785610_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "actualPrice": "28.00",
-      "discountPrice": "16.80",
-      "discount": "40",
+      "title": "Toddler 2-Piece Bunny Tee & Floral Skort Set",
+      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw5de07445/productimages/2O855510.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw5f3f0587/productimages/2O855510_1.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "actualPrice": "34.00",
+      "discountPrice": "21.00",
+      "discount": "38",
       "size": "s",
       "ocassion": "",
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 77
     },
     {
-      "title": "Baby 3-Piece Quilted Little Cardigan Set",
-      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwefa32a03/productimages/1L785610.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw05242fbf/productimages/1L785610_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "title": "Toddler Bee Happy Peplum Pullover",
+      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw90a83d2c/productimages/2O957610.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw4b5c002c/productimages/2O957610_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
       "actualPrice": "28.00",
-      "discountPrice": "16.80",
-      "discount": "40",
+      "discountPrice": "14.00",
+      "discount": "50",
       "size": "s",
       "ocassion": "",
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 78
     },
     {
-      "title": "Baby 3-Piece Quilted Little Cardigan Set",
-      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwefa32a03/productimages/1L785610.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw05242fbf/productimages/1L785610_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "actualPrice": "28.00",
-      "discountPrice": "16.80",
-      "discount": "40",
+      "title": "Toddler Rainbow Sneakers",
+      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwad2d2ec6/productimages/CS22E15H.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw0ce236ad/productimages/CS22E15H_1.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "actualPrice": "36.00",
+      "discountPrice": "22.00",
+      "discount": "39",
       "size": "s",
       "ocassion": "",
       "deals": "shopsale",
-      "category": "sets",
+      "category": "shoe",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 79
     },
     {
-      "title": "Baby 3-Piece Quilted Little Cardigan Set",
-      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwefa32a03/productimages/1L785610.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw05242fbf/productimages/1L785610_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "actualPrice": "28.00",
-      "discountPrice": "16.80",
-      "discount": "40",
+      "title": "Toddler 1-Piece Pastel 100% Snug Fit Cotton Romper PJs",
+      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw301beaab/productimages/2O827810.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw648d86ba/productimages/2O827810_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "actualPrice": "22.00",
+      "discountPrice": "12.00",
+      "discount": "45",
       "size": "s",
       "ocassion": "",
       "deals": "shopsale",
-      "category": "sets",
+      "category": "top",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 80
     },
     {
-      "title": "Baby 3-Piece Quilted Little Cardigan Set",
-      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwefa32a03/productimages/1L785610.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw05242fbf/productimages/1L785610_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "actualPrice": "28.00",
-      "discountPrice": "16.80",
-      "discount": "40",
+      "title": "Toddler 1-Piece Bunny 100% Snug Fit Cotton Footless PJs",
+      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw9bb6d4dc/productimages/2O827610.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dweb85e655/productimages/2O827610_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "actualPrice": "22.00",
+      "discountPrice": "12.00",
+      "discount": "45",
       "size": "s",
       "ocassion": "",
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 81
     },
     {
-      "title": "Baby 3-Piece Quilted Little Cardigan Set",
-      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwefa32a03/productimages/1L785610.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw05242fbf/productimages/1L785610_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "actualPrice": "28.00",
-      "discountPrice": "16.80",
-      "discount": "40",
+      "title": "Toddler Eyelet Sneakers",
+      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwb6bab09a/productimages/OS23E07H.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw5d85cddf/productimages/OS23E07H_2.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "actualPrice": "36.00",
+      "discountPrice": "18.00",
+      "discount": "50",
       "size": "s",
       "ocassion": "",
       "deals": "shopsale",
-      "category": "sets",
+      "category": "shoe",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 82
     },
     {
-      "title": "Baby 3-Piece Quilted Little Cardigan Set",
-      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwefa32a03/productimages/1L785610.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw05242fbf/productimages/1L785610_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "actualPrice": "28.00",
-      "discountPrice": "16.80",
+      "title": "Toddler 1-Piece Bunny 100% Snug Fit Cotton Romper PJs",
+      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwdb3a9c78/productimages/2O827910.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwf1746c71/productimages/2O827910_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "actualPrice": "22.00",
+      "discountPrice": "12.00",
       "discount": "40",
       "size": "s",
       "ocassion": "",
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 83
     },
     {
-      "title": "Baby 3-Piece Quilted Little Cardigan Set",
-      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwefa32a03/productimages/1L785610.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw05242fbf/productimages/1L785610_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "actualPrice": "28.00",
-      "discountPrice": "16.80",
-      "discount": "40",
+      "title": "Toddler 2-Pack Leggings",
+      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw2076e5c5/productimages/CS23L05H.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwbff0121f/productimages/CS23L05H_2.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "actualPrice": "8.00",
+      "discountPrice": "6.00",
+      "discount": "25",
       "size": "s",
       "ocassion": "",
       "deals": "shopsale",
-      "category": "sets",
+      "category": "shoe",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 84
     },
     {
-      "title": "Baby 3-Piece Quilted Little Cardigan Set",
-      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwefa32a03/productimages/1L785610.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw05242fbf/productimages/1L785610_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "actualPrice": "28.00",
-      "discountPrice": "16.80",
-      "discount": "40",
+      "title": "Toddler 1-Piece Pastel 100% Snug Fit Cotton Footless PJs",
+      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwa30f8698/productimages/2O827410.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwb015caca/productimages/2O827410_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "actualPrice": "22.00",
+      "discountPrice": "12.00",
+      "discount": "45",
       "size": "s",
       "ocassion": "",
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 85
     },
     {
-      "title": "Baby 3-Piece Quilted Little Cardigan Set",
-      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwefa32a03/productimages/1L785610.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw05242fbf/productimages/1L785610_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "actualPrice": "28.00",
-      "discountPrice": "16.80",
-      "discount": "40",
+      "title": "Toddler 4-Piece Dragon 100% Snug Fit Cotton PJs",
+      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwc3a4ced8/productimages/2O584810.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwa7183a95/productimages/2O584810_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "actualPrice": "36.00",
+      "discountPrice": "18.00",
+      "discount": "50",
       "size": "s",
       "ocassion": "",
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 86
     },
     {
-      "title": "Baby 3-Piece Quilted Little Cardigan Set",
-      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwefa32a03/productimages/1L785610.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw05242fbf/productimages/1L785610_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "actualPrice": "28.00",
-      "discountPrice": "16.80",
-      "discount": "40",
+      "title": "Fish Flip Flops",
+      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw64af0ee7/productimages/CS23L07H.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw5eecf8ad/productimages/CS23L07H_2.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "actualPrice": "8.00",
+      "discountPrice": "6.00",
+      "discount": "25",
       "size": "s",
       "ocassion": "",
       "deals": "shopsale",
-      "category": "sets",
+      "category": "shoe",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 87
     },
     {
-      "title": "Baby 3-Piece Quilted Little Cardigan Set",
-      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwefa32a03/productimages/1L785610.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw05242fbf/productimages/1L785610_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "actualPrice": "28.00",
-      "discountPrice": "16.80",
+      "title": "Toddler 1-Piece Butterfly 100% Snug Fit Cotton Footless PJs",
+      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw5066a37c/productimages/2O577910.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw907f8ce7/productimages/2O577910_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "actualPrice": "20.00",
+      "discountPrice": "12.00",
       "discount": "40",
       "size": "s",
       "ocassion": "",
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 88
     },
     {
-      "title": "Baby 3-Piece Quilted Little Cardigan Set",
-      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwefa32a03/productimages/1L785610.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw05242fbf/productimages/1L785610_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "actualPrice": "28.00",
-      "discountPrice": "16.80",
+      "title": "Toddler 1-Piece Dragon 100% Snug Fit Cotton Footless PJs",
+      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwc1ccf411/productimages/2O578010.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw788f8f14/productimages/2O578010_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "actualPrice": "20.00",
+      "discountPrice": "12.00",
       "discount": "40",
       "size": "s",
       "ocassion": "",
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 89
     },
     {
-      "title": "Baby 3-Piece Quilted Little Cardigan Set",
-      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwefa32a03/productimages/1L785610.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw05242fbf/productimages/1L785610_LV03.jpg?sw=354&sh=444&yocs=4E_4G_",
-      "actualPrice": "28.00",
-      "discountPrice": "16.80",
-      "discount": "40",
+      "title": "Toddler Pull-On Canvas Sneakers",
+      "image1": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw47ba7cee/productimages/OF22C21H.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "image2": "https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.293/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw4ef9f094/productimages/OF22C21H_1.jpg?sw=354&sh=444&yocs=4E_4G_",
+      "actualPrice": "38.00",
+      "discountPrice": "19.00",
+      "discount": "50",
       "size": "s",
       "ocassion": "",
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 90
     },
     {
@@ -1376,7 +1466,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 91
     },
     {
@@ -1391,7 +1482,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 92
     },
     {
@@ -1406,7 +1498,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 93
     },
     {
@@ -1421,7 +1514,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 94
     },
     {
@@ -1436,7 +1530,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 95
     },
     {
@@ -1451,7 +1546,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 96
     },
     {
@@ -1466,7 +1562,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 97
     },
     {
@@ -1481,7 +1578,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 98
     },
     {
@@ -1496,7 +1594,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 99
     },
     {
@@ -1511,7 +1610,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 100
     },
     {
@@ -1526,7 +1626,8 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "type": "toddler",
+      "subType": "toddler-girl",
       "id": 101
     },
     {
@@ -1541,7 +1642,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 102
     },
     {
@@ -1556,7 +1657,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 103
     },
     {
@@ -1571,7 +1672,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 104
     },
     {
@@ -1586,7 +1687,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 105
     },
     {
@@ -1601,7 +1702,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 106
     },
     {
@@ -1616,7 +1717,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 107
     },
     {
@@ -1631,7 +1732,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 108
     },
     {
@@ -1646,7 +1747,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 109
     },
     {
@@ -1661,7 +1762,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 110
     },
     {
@@ -1676,7 +1777,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 111
     },
     {
@@ -1691,7 +1792,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 112
     },
     {
@@ -1706,7 +1807,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 113
     },
     {
@@ -1721,7 +1822,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 114
     },
     {
@@ -1736,7 +1837,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 115
     },
     {
@@ -1751,7 +1852,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 116
     },
     {
@@ -1766,7 +1867,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 117
     },
     {
@@ -1781,7 +1882,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 118
     },
     {
@@ -1796,7 +1897,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 119
     },
     {
@@ -1811,7 +1912,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 120
     },
     {
@@ -1826,7 +1927,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 121
     },
     {
@@ -1841,7 +1942,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 122
     },
     {
@@ -1856,7 +1957,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 123
     },
     {
@@ -1871,7 +1972,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 124
     },
     {
@@ -1886,7 +1987,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 125
     },
     {
@@ -1901,7 +2002,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 126
     },
     {
@@ -1916,7 +2017,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 127
     },
     {
@@ -1931,7 +2032,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 128
     },
     {
@@ -1946,7 +2047,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 129
     },
     {
@@ -1961,7 +2062,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 130
     },
     {
@@ -1976,7 +2077,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 131
     },
     {
@@ -1991,7 +2092,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 132
     },
     {
@@ -2006,7 +2107,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 133
     },
     {
@@ -2021,7 +2122,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 134
     },
     {
@@ -2036,7 +2137,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 135
     },
     {
@@ -2051,7 +2152,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 136
     },
     {
@@ -2066,7 +2167,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 137
     },
     {
@@ -2081,7 +2182,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 138
     },
     {
@@ -2096,7 +2197,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 139
     },
     {
@@ -2111,7 +2212,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 140
     },
     {
@@ -2126,7 +2227,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 141
     },
     {
@@ -2141,7 +2242,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 142
     },
     {
@@ -2156,7 +2257,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 143
     },
     {
@@ -2171,7 +2272,7 @@
       "deals": "shopsale",
       "category": "sets",
       "brand": "clothie's",
-      "type": "baby_girl",
+      "subType": "baby_girl",
       "id": 144
     }
   ],
