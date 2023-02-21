@@ -6,7 +6,35 @@
       "password": "admin"
     }
   ],
-  "books": [
+  "cart": [
+    {
+      "id": 1,
+      "title": "african",
+      "brand": "loui vitton"
+    }
+  ],
+  "baby": [
+    {
+      "id": 1,
+      "title": "african",
+      "brand": "loui vitton"
+    }
+  ],
+  "toddler": [
+    {
+      "id": 1,
+      "title": "african",
+      "brand": "loui vitton"
+    }
+  ],
+  "kids": [
+    {
+      "id": 1,
+      "title": "african",
+      "brand": "loui vitton"
+    }
+  ],
+  "orders": [
     {
       "id": 1,
       "title": "african",
