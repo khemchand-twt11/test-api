@@ -1,0 +1,61 @@
+###
+GET https://test-api-oqvk.onrender.com/cloth_data
+###
+GET https://test-api-oqvk.onrender.com/cart
+
+###
+GET https://test-api-oqvk.onrender.com/user
+
+###
+GET https://test-api-oqvk.onrender.com/orders
+
+
+###
+POST https://test-api-oqvk.onrender.com/cloth_data
+Content-Type: application/json
+
+  {
+    
+    "title":"Baby 3-Piece Pullover Cardigan Set",
+    "image1": "https://cdn-fsly.yottaa.net/578855e32bb0ac10350004f8/www.carters.com/v~4b.2a5/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwbf0ca777/productimages/1O568210.jpg?sw=354&sh=444&yocs=g_j_",
+    "image2":"https://cdn-fsly.yottaa.net/578855e32bb0ac10350004f8/www.carters.com/v~4b.2a5/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw0b0081d7/productimages/1O568210_1.jpg?sw=354&sh=444&yocs=g_j_",
+    "actualPrice":"34.00",
+    "discountPrice":"14.00",
+    "discount":"59% off",
+    "size": "s",
+    "ocassion": "",
+    "deals": "shopsale",
+    "category": "sets",
+    "brand":"clothie's",
+    "type":"baby_girl"
+
+  }
+
+###
+PATCH https://test-api-oqvk.onrender.com/cloth_data/6
+Content-Type: application/json
+
+{
+  "title":"Baby 3-Piece Quilted Little Cardigan Set"
+}
+
+###
+PUT https://test-api-oqvk.onrender.com/books/2
+Content-Type: application/json
+
+  {
+    "salary":7000000
+  }
+
+###
+DELETE https://test-api-oqvk.onrender.com/cloth_data/3
+
+###
+POST https://test-api-oqvk.onrender.com/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "admin"
+}
+
