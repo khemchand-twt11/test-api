@@ -6,13 +6,7 @@
       "password": "admin"
     }
   ],
-  "cart": [
-    {
-      "id": 1,
-      "title": "african",
-      "brand": "loui vitton"
-    }
-  ],
+  "cart": [],
   "cloth_data": [
     {
       "title": "Baby 3-Piece Floral Little Vest Set",
