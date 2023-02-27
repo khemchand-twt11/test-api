@@ -1,5 +1,11 @@
 {
-  "user": [],
+  "user": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
   "cart": [],
   "cloth_data": [
     {
